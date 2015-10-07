@@ -22,10 +22,9 @@ stored locally?
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
-
-    Fill in your answer here
-
+    GitHub is much easier because it manages different people's branches and mergers from remote locations
+    
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    If your code breaks something then you've broken master - which should be the production code
